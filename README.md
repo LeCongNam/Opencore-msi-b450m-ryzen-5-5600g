@@ -8,6 +8,7 @@ This is an open-source EFI folder for running macOS on the MSI B450M PRO-M2 MAX 
 
 - **Motherboard:** MSI B450M PRO-M2 MAX II
 - **Bootloader:** OpenCore (latest version)
+- **macOS Version:** macOS Ventura 13 (currently running)
 - **Status:** Fully working except for Apple Services (iMessage, FaceTime, etc.)
 - **AMD Power Management:** Not yet implemented
 
